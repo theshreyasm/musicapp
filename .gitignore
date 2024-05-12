@@ -1,0 +1,4 @@
+*.env
+music/__pycache__/
+musicapp/__pycache__/
+*.sqlite3
